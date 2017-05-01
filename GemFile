@@ -1,0 +1,11 @@
+source 'https://rubygems.org' do
+
+	gem 'discordrb'
+
+	group :spotty do
+		gem 'rspotify'
+	  gem 'nokogiri'
+	  gem 'youtube-dl.rb'
+	end
+
+end
